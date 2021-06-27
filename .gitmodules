@@ -1,0 +1,6 @@
+[submodule "vIndex_client"]
+	path = vIndex_client
+	url = git@github.com:yeetbit/vIndex_Client.git
+[submodule "vIndex_server"]
+	path = vIndex_server
+	url = git@github.com:yeetbit/vIndex_Server.git
