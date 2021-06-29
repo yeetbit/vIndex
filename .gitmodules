@@ -4,3 +4,9 @@
 [submodule "vIndex_server"]
 	path = vIndex_server
 	url = git@github.com:yeetbit/vIndex_Server.git
+[submodule "vIndexServer"]
+	path = vIndexServer
+	url = git@github.com:yeetbit/vIndexServer.git
+[submodule "vIndexClient"]
+	path = vIndexClient
+	url = git@github.com:yeetbit/vIndexClient.git
